@@ -2,7 +2,7 @@
 
 An interactive Python-based Sudoku solver and checker. The app generates a valid Sudoku puzzle, allows users to input their own solution, and validates it using an AI-based backtracking algorithm.
 
-![Sudoku Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sudoku_Puzzle_Hard_for_Sudoku_Unsolved.svg/1024px-Sudoku_Puzzle_Hard_for_Sudoku_Unsolved.svg.png)
+![Sudoku Banner](assets/sudoku_banner.png)
 
 ---
 
